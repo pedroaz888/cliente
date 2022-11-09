@@ -2,7 +2,7 @@
 
 Realizado no DJANGO Rest Framework, 
 senha para entrar e realizar as operações:
-usuário - peter
-senha - apiclientes
+#usuário - peter
+#senha - apiclientes
 
 https://api-cliente-dfw.herokuapp.com/
